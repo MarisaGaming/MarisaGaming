@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarisaGaming
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C++, Java, Python, HTML, CSS, PHP, SQL.
+- 💞️ I’m looking to collaborate on nothing (for now).
+- 📫 How to reach me: uhhhhhhh
